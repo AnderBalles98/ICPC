@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 
 /**
- * @author ANDERSON BALLESTEROS RODRIGUEZ
+ * @author ANDERSON BALLESTEROS
  */
  
 class Main {
