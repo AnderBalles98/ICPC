@@ -6,7 +6,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 /**
- * @author ANDERSON BALLESTEROS RODRIGUEZ
+ * @author ANDERSON BALLESTEROS
  */
  
 class Main {
